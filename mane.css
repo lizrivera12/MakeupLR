@@ -1,0 +1,30 @@
+h1{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 80px;
+	text-align: center;
+	border-color: white;
+}
+
+h2 {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 25px;
+	background-color: white;
+	text-align: center;
+	border-color: lightpink;
+}
+
+h3 {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 45px;
+	text-align: left;
+	border-color: white;
+	background-color: blanchedalmond;
+}
+
+h4 {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 15px;
+	background-color: lightpink;
+	text-align: center;
+	border-color: lightpink;
+}

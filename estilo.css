@@ -1,0 +1,59 @@
+* {
+	box-sizing: border-box;
+}
+
+header, footer {
+	background-color: lightgreen;
+	border-style: solid;
+	border-radius: 500px;
+	padding: 5px;
+	text-align: center;
+}
+
+.separador1{
+	height: 3px;
+	clear: both;
+}
+
+
+.centro{
+	width: 25%;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+
+img {
+	transition: all 0.8s linear;
+	border-style: solid;
+	border-color: black;
+	border-radius: 4px;
+}
+
+.main img{
+	width: 48%;
+	float: left;
+	border-radius: 30px;
+}
+
+.main {
+	height: 120px;
+}
+
+body {
+	background-image: url(img/foto.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+
+img:hover{
+	border-radius: 80px;
+	 filter: grayscale(50%); 
+	border-radius: 80%;
+	filter: grayscale(80%);
+}
+
+
