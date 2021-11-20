@@ -1,0 +1,10 @@
+* {
+	box-decoration-break: inherit;
+}
+
+header, footer {
+	background-color: lightgreen;
+	border-style: solid;
+	border-radius: 500px;
+	padding: 5px;
+	text-align: center;
